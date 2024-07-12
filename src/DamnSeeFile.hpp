@@ -1,5 +1,5 @@
 class DamnSeeFile {
     public:
-        void damnSeeFile();
-        void canWeSee(int);
+        void damnSeeFile(){};
+        void canWeSee(int x){int _x = x;};
 };

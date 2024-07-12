@@ -9,9 +9,9 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
-  DamnSeeFile damnSeeFile;
-
-  damnSeeFile.damnSeeFile();
-  damnSeeFile.canWeSee(1);
+  DamnSeeFile _damnSeeFile;
+  
+  
+  _damnSeeFile.canWeSee(1);
 }
 
